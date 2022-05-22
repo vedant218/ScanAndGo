@@ -1,2 +1,4 @@
 # ScanAndGo
-Developed a system which can read and analyse handwritten text in English and select regional languages and convert it into Normal editable text
+●	Developing an app which converts Handwritten text and regional texts into digital text
+●	Technologies to be used: Java, XML, Android Studio, Firebase, Python, OpenCV, Flask
+
